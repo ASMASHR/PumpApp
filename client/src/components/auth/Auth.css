@@ -1,0 +1,45 @@
+.ButonLoginRegister{
+    background-color: transparent;
+    border:none;
+    color: white;
+    font-size: 19px;
+    font-weight: 700;
+    height: 4vw;
+}
+
+.ButonLoginRegister:hover{
+     color: rgb(94, 23, 23);
+     background-color: white;
+    border-radius: 5px;
+    height: 4vw;
+    padding: 1vw;
+    
+    margin-bottom: 1vw;
+}
+.HeaderModal{
+    text-align: center;
+    margin: 1vw;
+    color: rgb(121 21 21);
+    font-family: fantasy;
+    font-size: 35px;
+    font-weight: 700;
+    font-style: italic;
+}
+.labelName{
+   text-align: center;
+    font-size: 18px;
+    font-family: emoji;
+    font-weight: bold;
+    color: rgb(102, 10, 17);
+    margin: 1vw 1vw 1vw 15vw;
+}
+.inputName{
+    border: none;
+    border-bottom: 3px solid brown;
+    width: 20vw;
+    margin-left: 5vw;
+    height: 4VW;
+}
+.inputName:focus{
+   box-shadow: brown 0px 1px 2px 0px, brown 0px 1px 3px 1px;
+}

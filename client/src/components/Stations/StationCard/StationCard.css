@@ -1,0 +1,29 @@
+.StationcardContainer{
+    display: flex;
+    flex-direction: column;
+    box-Shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    Width: 40%;
+    margin: 2vw;
+    
+}
+.infoContainer{
+    display: flex;
+}
+.imgstation{
+height: 100%;
+width: 50%;
+}
+.stationInfo{
+    margin: 5px;
+}
+.stationInfo h1{
+    font-size: 19px;
+    text-align: center;
+    
+}
+
+.stationButton{
+    display: flex;
+        align-items: center;
+    justify-content: space-around;
+}

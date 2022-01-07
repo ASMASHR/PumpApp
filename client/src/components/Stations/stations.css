@@ -1,0 +1,7 @@
+.stations{
+    display: flex;flex-direction: column;
+}
+.stationsContainer{
+    display: flex;
+    flex-wrap: wrap;
+}

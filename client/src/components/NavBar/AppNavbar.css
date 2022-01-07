@@ -1,0 +1,35 @@
+.nBrand{
+     font-family: 'Exo 2', sans-serif;
+  font-size: 8.5vw;
+  color: white;
+  padding: 4px 0;
+  text-shadow: 0px 4px 4px;
+  text-decoration: none;
+  
+}
+.nBrand:hover{
+    color: rgb(94, 23, 23);
+    text-decoration: none;
+}
+.navItems{
+    display: flex;
+    width: 4vw;
+    justify-content: space-evenly;
+
+}
+.itemButton{
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+    font-weight: 700;
+    height: 4vw;
+    }
+.item:hover{
+     color: rgb(94, 23, 23);
+     background-color: white;
+    border-radius: 5px;
+    height: 4vw;
+    padding: 1vw;
+    text-decoration: none;
+    margin-bottom: 1vw;
+}
